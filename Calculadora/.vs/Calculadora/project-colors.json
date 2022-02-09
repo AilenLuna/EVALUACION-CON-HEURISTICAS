@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f812a779-f1b3-41e6-8975-35648b56a43a": {
+      "ProjectGuid": "f812a779-f1b3-41e6-8975-35648b56a43a",
+      "DisplayName": "Calculadora",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
